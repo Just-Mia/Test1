@@ -1,0 +1,6 @@
+﻿Build started at 21:57...
+1>------ Build started: Project: Лаб4(поЛаб2)_сем2, Configuration: Debug x64 ------
+1>Лаб4(поЛаб2)_сем2.cpp
+1>Лаб4(поЛаб2)_сем2.vcxproj -> C:\Users\Redmi\source\repos\Лаб4(поЛаб2)_сем2\x64\Debug\Лаб4(поЛаб2)_сем2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 21:57 and took 01,929 seconds ==========
